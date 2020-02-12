@@ -1,6 +1,6 @@
 https://get.graphlab.com/GraphLab-Create/2.1/hskang9@gmail.com/9054-9D38-B2D1-1C8A-0400-654E-1881-9C6B/GraphLab-Create-License.tar.gz
 dj-database-url==0.4.1
-Django==1.9.7
+Django==1.11.28
 gunicorn==19.6.0
 psycopg2==2.6.2
 whitenoise==2.0.6
